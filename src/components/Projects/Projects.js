@@ -24,8 +24,8 @@ function Projects() {
               isBlog={false}
               title={t("projects._.top_rate_eng.title", {returnObjects: true})}
               description={t("projects._.top_rate_eng.description", {returnObjects: true})}
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              ghLink="https://github.com/IsmailGa/English-Center-React"
+              demo="https://edu-center-english-webapp.vercel.app/"
             />
           </Col>
         </Row>
