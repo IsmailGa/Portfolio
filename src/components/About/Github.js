@@ -9,7 +9,7 @@ function Github() {
 
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-      <h1 className="project-heading" style={{ paddingBottom: "20px" }} dangerouslySetInnerHTML={{__html: t("about.github-title", {returnObjects: true} )}}/>
+      <h1 className="project-heading" style={{ paddingBottom: "20px" }} dangerouslySetInnerHTML={{__html: t("about.github_title", {returnObjects: true} )}}/>
       <GitHubCalendar
         username="IsmailGa"
         blockSize={15}
