@@ -25,7 +25,7 @@ function Projects() {
               title={t("projects._.top_rate_eng.title", {returnObjects: true})}
               description={t("projects._.top_rate_eng.description", {returnObjects: true})}
               ghLink="https://github.com/IsmailGa/English-Center-React"
-              demo="https://edu-center-english-webapp.vercel.app/"
+              demoLink="https://edu-center-english-webapp.vercel.app/"
             />
           </Col>
         </Row>
