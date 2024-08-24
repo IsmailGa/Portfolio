@@ -1,0 +1,50 @@
+{
+  "header": {},
+  "type": ["Web Developer", "Freelancer", "Open Source Contributor"],
+  "home": {
+    "title": "Home",
+    "heading": "Hi There!",
+    "heading_name": "I'M",
+    "intro": {
+      "title": "LET ME <span class='purple'> INTRODUCE </span> MYSELF",
+      "body": " I love programming, opening for myself new projects and ideas to create after <br /><br />I am fluent in classics like <i><b class='purple'> Javascript and Python. </b></i><br /><br /> My field of Interest's are building new &nbsp; <i><b class='purple'>Web Technologies and Products </b> and also in areas related to <b class='purple'> Blockchain.</b> </i><br /><br /> Whenever possible, I also apply my passion for developing products with <b class='purple'>Node.js</b> and<i><b class='purple'> Modern Javascript Library and Frameworks</b></i> &nbsp; like<i><b class='purple'> React.js and Next.js</b></i>"
+    },
+    "social": {
+      "title": "FIND ME ON",
+      "descr": "Feel free to connect with me"
+    }
+  },
+  "about": {
+    "title": "About",
+    "about_me": {
+      "title": "Know Who <strong class='purple'>I'M</strong>",
+      "intro": "Hi Everyone, my real name is <span class='purple'>Ismail</span>, but you can call me <span class='purple'>Isa</span>. I'm from <span class='purple'>Tashkent, Uzbekistan.</span><br />I am currently a freelancer, but I’m available to work with you.<br />I'm studying Information Systems Engineering at KIUT, currently in my second year.<br /><br />Apart from coding, there are some other activities that I love to do!",
+      "activities": [
+        "Playing games",
+        "Watching anime, serials, films",
+        "Learning new languages",
+        "Listening to music"
+      ]
+    },
+    "github_title": "Days I <strong class='purple'>Code</strong>",
+    "tech_stack": " Professional <strong class='purple'>Skillset </strong>",
+    "tool_stack": "<strong class='purple'>Tools</strong> I use"
+  },
+  "projects": {
+    "_": {
+      "top_rate_eng": {
+        "title": "Top-Rated English Educational Centers",
+        "description": "This website was created to showcase the best educational schools for improving English skills and achieving high scores in the IELTS exams. The selections were made based on my personal choice."
+      }
+    },
+    "title": "Projects",
+    "_heading": "My Recent <strong class='purple'>Works </strong>",
+    "_sub_heading": "Here are a few projects I've worked on recently."
+  },
+  "resume": {
+    "title": "Resume"
+  },
+  "blogs": {
+    "title": "Blogs"
+  }
+}
