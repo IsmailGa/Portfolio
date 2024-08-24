@@ -110,13 +110,14 @@ function NavBar() {
                 <ImBlog style={{ marginBottom: "2px" }} /> {t("blogs.title", {returnObjects: true})}
               </Nav.Link>
             </Nav.Item> */}
-
-            // <Nav.Item className="fork-btn">
-            //   <Button href="" target="_blank" className="fork-btn-inner">
-            //     <CgGitFork style={{ fontSize: "1.2em" }} />{" "}
-            //     <AiFillStar style={{ fontSize: "1.1em" }} />
-            //   </Button>
-            // </Nav.Item>
+              {/*
+             <Nav.Item className="fork-btn">
+               <Button href="" target="_blank" className="fork-btn-inner">
+                 <CgGitFork style={{ fontSize: "1.2em" }} />{" "}
+                 <AiFillStar style={{ fontSize: "1.1em" }} />
+               </Button>
+            </Nav.Item>
+               */}
 
             <Nav.Item className="tran-buttons">
               <ButtonGroup aria-label="Basic example" size="sm" >
