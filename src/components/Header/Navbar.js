@@ -43,8 +43,8 @@ function NavBar() {
       className={navColour ? "sticky" : "navbar"}
     >
       <Container>
-        <Navbar.Brand href="/" className="d-flex">
-          I
+        <Navbar.Brand href="/" className="d-flex text-icon">
+          ISA
         </Navbar.Brand>
 
         <Navbar.Toggle
