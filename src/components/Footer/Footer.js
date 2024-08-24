@@ -36,7 +36,7 @@ function Footer() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/mmmh_1_/"
+                  href="https://www.instagram.com/ii._ssaa_a/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
