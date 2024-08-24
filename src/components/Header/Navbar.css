@@ -87,6 +87,10 @@
   width: 2.5em !important;
 }
 
+.text-icon{
+  font-size: 2rem !important;
+}
+
 .navbar-nav .nav-link {
   color: white !important;
   padding-right: 1rem !important;
