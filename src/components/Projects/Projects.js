@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import top_rate from "../../Assets/projects/top_rate_eng.png"
-import anor_auto from "../../Assets/projects/anor_auto.png"
+import anor_auto from "../../Assets/projects/anor-auto.png"
 import { useTranslation } from "react-i18next"
 
 function Projects() {
