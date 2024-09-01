@@ -3,6 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import top_rate from "../../Assets/projects/top_rate_eng.png"
+import anor_auto from "../../Assets/projects/anor_auto.png"
 import { useTranslation } from "react-i18next"
 
 function Projects() {
@@ -26,6 +27,15 @@ function Projects() {
               description={t("projects._.top_rate_eng.description", {returnObjects: true})}
               ghLink="https://github.com/IsmailGa/English-Center-React"
               demoLink="https://edu-center-english-webapp.vercel.app/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={anor_auto}
+              isBlog={false}
+              title={t("projects._.anor_auto.title", {returnObjects: true})}
+              description={t("projects._.anor_auto.description", {returnObjects: true})}
+              demoLink="https://anor-auto.netlify.app/"
             />
           </Col>
         </Row>
