@@ -32,13 +32,13 @@
   },
   "projects": {
     "_": {
-      "top_rate_eng": {
-        "title": "Top-Rated English Educational Centers",
-        "description": "This website was created to showcase the best educational schools for improving English skills and achieving high scores in the IELTS exams. The selections were made based on my personal choice."
+      "ilevel": {
+        "title": "iLevel Shop",
+        "description": "iLevel Shop was created to attract customers for its cheaper prices for Apple products."
       },
       "anor_auto": {
         "title": "Anor Auto",
-        "description": "Landing Page Website"
+        "description": "Full Stack Web site, which selling auto-truck parts."
       }
     },
     "title": "Projects",
