@@ -5,10 +5,7 @@ import Container from "react-bootstrap/Container";
 import Button from "react-bootstrap/Button";
 import ButtonGroup from "react-bootstrap/ButtonGroup";
 import { Link } from "react-router-dom";
-import { CgGitFork } from "react-icons/cg";
-import { ImBlog } from "react-icons/im";
 import {
-  AiFillStar,
   AiOutlineHome,
   AiOutlineFundProjectionScreen,
   AiOutlineUser,
@@ -110,7 +107,7 @@ function NavBar() {
                 <ImBlog style={{ marginBottom: "2px" }} /> {t("blogs.title", {returnObjects: true})}
               </Nav.Link>
             </Nav.Item> */}
-              {/*
+            {/*
              <Nav.Item className="fork-btn">
                <Button href="" target="_blank" className="fork-btn-inner">
                  <CgGitFork style={{ fontSize: "1.2em" }} />{" "}
@@ -120,7 +117,7 @@ function NavBar() {
                */}
 
             <Nav.Item className="tran-buttons">
-              <ButtonGroup aria-label="Basic example" size="sm" >
+              <ButtonGroup aria-label="Basic example" size="sm">
                 <Button
                   variant="primary"
                   className="fork-btn-inner"

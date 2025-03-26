@@ -39,6 +39,10 @@
       "anor_auto": {
         "title": "Anor Auto",
         "description": "Full Stack Web site, which selling auto-truck parts."
+      },
+      "kiut_ise" : {
+        "title" : "KIUT ISE",
+        "description" : "KIUT website for Information Systems Engineering students."
       }
     },
     "title": "Projects",
